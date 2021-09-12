@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="course_name">Class: Native Mobile Programming (Android)</string>
+    <string name="program_name">Course: Computer Techniques</string>
+    <string name="teacher_name">TP3 - Awarded to Pascal Guy</string>
+    <string name="final_date">Delivery date: March 04, 2021</string>
+    <string name="my_name">Name: Gustavo Pereira Schmitz</string>
+    <string name="institute_name">School: Institut Grasset</string>
+    <string name="count_down1">Calculator will start at:</string>
+    <string name="app_label">TP03 - Calculator</string>
+</resources>

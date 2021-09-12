@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name" translatable="false">GSchmitz_PN6_TP3</string>
+    <string name="app_label">TP03 - Calculatrice</string>
+    <string name="my_name">Nom : Gustavo Pereira Schmitz</string>
+    <string name="institute_name">École : Institut Grasset</string>
+    <string name="program_name">Programme : Techniques de l’Informatique</string>
+    <string name="course_name">Cours : Programmation Native Mobile (Android)</string>
+    <string name="teacher_name">TP3 – Remis à Pascal Guy</string>
+    <string name="final_date">Date de remise : 04 mars 2021</string>
+    <string name="count_down1">La calculatrice commencera à :</string>
+    <string name="count_down2" translatable="false">0</string>
+    <string name="display" translatable="false">0</string>
+    <string name="btn_sum" translatable="false">+</string>
+    <string name="btn_sub" translatable="false">-</string>
+    <string name="btn_div" translatable="false">÷</string>
+    <string name="btn_mult" translatable="false">X</string>
+    <string name="btn_0" translatable="false">0</string>
+    <string name="btn_1" translatable="false">1</string>
+    <string name="btn_2" translatable="false">2</string>
+    <string name="btn_3" translatable="false">3</string>
+    <string name="btn_4" translatable="false">4</string>
+    <string name="btn_5" translatable="false">5</string>
+    <string name="btn_6" translatable="false">6</string>
+    <string name="btn_7" translatable="false">7</string>
+    <string name="btn_8" translatable="false">8</string>
+    <string name="btn_9" translatable="false">9</string>
+    <string name="btn_C" translatable="false">C</string>
+    <string name="btn_point" translatable="false">.</string>
+    <string name="btn_equal" translatable="false">=</string>
+</resources>

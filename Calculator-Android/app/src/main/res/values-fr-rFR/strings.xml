@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="final_date">Date de remise : 04 Mars 2021</string>
+    <string name="teacher_name">TP3 – Remis à Pascal Guy</string>
+    <string name="course_name">Cours : Native Mobile Programming (Android)</string>
+    <string name="program_name">Programme : Techniques de l’Informatique</string>
+    <string name="my_name">Nom : Gustavo Pereira Schmitz</string>
+    <string name="institute_name">École : Institut Grasset</string>
+    <string name="count_down1">La calculatrice commencera à :</string>
+    <string name="app_label">TP03 - Calculatrice</string>
+</resources>
